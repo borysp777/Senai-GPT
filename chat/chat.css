@@ -11,6 +11,8 @@
     width: 80vw;
     background-color: crimson;
     display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 
@@ -22,7 +24,7 @@
 .container-top {
     height: 50vh;
     width: 100%;
-    background-color: blueviolet;
+    background-color: white;
     display: flex;
     flex-direction: column;
     padding: 10px;
@@ -33,7 +35,7 @@
 
     height: 50vh;
     width: 100%;
-    background-color: chartreuse;
+    background-color: white;
     display: flex;
     flex-direction: column;
     padding: 10px;
@@ -79,3 +81,14 @@ margin: 10px;
     margin: 10px;
     text-align: left;
     }
+
+    .right-panel-image {
+
+    }
+
+
+.image {
+
+    margin-top:10px;
+
+}
