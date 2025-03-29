@@ -1,0 +1,81 @@
+.left-panel {
+
+    height: 100vh;
+    width: 20vw;
+    background-color: blue;
+}
+
+.right-panel {
+
+    height: 100vh;
+    width: 80vw;
+    background-color: crimson;
+    display: flex;
+
+}
+
+.container {
+
+    display: flex;
+}
+
+.container-top {
+    height: 50vh;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+.container-bottom {
+
+    height: 50vh;
+    width: 100%;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.button-new-chat {
+
+font-size: 18px ;
+background-color: black;
+font-family: "inter";
+color: white;
+height: 40px;
+border-radius: 12px;
+border: none;
+margin: 10px;
+
+}
+.top-menu-btn {
+
+    font-size: 18px ;
+    background-color: white;
+    font-family: "inter";
+    color: black;
+    height: 40px;
+    border-radius: 12px;
+    border: none;
+    margin: 10px;
+    text-align: left;
+    }
+
+
+
+    
+.low-menu-btn {
+
+    font-size: 18px ;
+    background-color: white;
+    font-family: "inter";
+    color: black;
+    height: 40px;
+    border-radius: 12px;
+    border: none;
+    margin: 10px;
+    text-align: left;
+    }
